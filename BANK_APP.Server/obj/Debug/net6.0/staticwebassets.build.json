@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "bEpSuLNM161Dra87jPujKrJSYzWCa2DYsDXaabqTxeI=",
+  "Source": "BANK_APP.Server",
+  "BasePath": "_content/BANK_APP.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\cache\\source\\repos\\BANK_APP\\bank_app.client\\bank_app.client.esproj",
+      "Version": 2,
+      "Source": "bank_app.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

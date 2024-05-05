@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\cache\\source\\repos\\BANK_APP\\BANK_APP.Server\\..\\bank_app.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
